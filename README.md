@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hey there! I'm Ian.
+
+<p align='center'>
+<a href="mailto:dev.iansmathew@gmail.com"><img height="30" src="assets/icon_email.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/iansmathew/"><img height="30" src="assets/icon_linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/iansmathew"><img height="30" src="assets/icon_twitter.png"></a>&nbsp;&nbsp;
+<a href="https://connect.unity.com/u/ian-mathew"><img height="30" src="assets/icon_unity3d.png"></a>&nbsp;&nbsp;
+</p>
 
 <!--
 **iansmathew/iansmathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
