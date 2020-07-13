@@ -24,6 +24,7 @@ Here are a few things I've picked up along my learning journey.
 - 🎒 NodeJS 𒑰 Express 𒑰 Socket.IO
 - ☁ AWS 𒑰 Firebase
 - 🎮 Unity3D 𒑰 Unreal Engine 4
+- 📱 Flutter
 - ♽ Docker 𒑰 Jenkins
 
 ### 🚧Current Projects:
