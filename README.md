@@ -20,11 +20,11 @@
 Here are a few things I've picked up along my learning journey.
 </p>
 
-- 🗣*C++ 𒑰 C# 𒑰 TypeScript 𒑰 Python 𒑰 Dart*
-- 🎒*NodeJS 𒑰 Express 𒑰 Socket.IO*
-- ☁ _AWS 𒑰 Firebase_
-- 🎮 _Unity3D 𒑰 Unreal Engine 4_
-- ♽ _Docker 𒑰 Jenkins_
+- 🗣 C++ 𒑰 C# 𒑰 TypeScript 𒑰 Python 𒑰 Dart
+- 🎒 NodeJS 𒑰 Express 𒑰 Socket.IO
+- ☁ AWS 𒑰 Firebase
+- 🎮 Unity3D 𒑰 Unreal Engine 4
+- ♽ Docker 𒑰 Jenkins
 
 ### 🚧Current Projects:
 
