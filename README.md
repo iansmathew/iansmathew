@@ -27,7 +27,7 @@ Here are a few things I've picked up along my learning journey.
 - 📱 Flutter
 - ♽ Docker 𒑰 Jenkins
 
-### 🚧Current Projects:
+### 🚧Current Projects
 
 <p>
 Check out what I'm currently involved in.
@@ -42,6 +42,12 @@ Here are some things on my todo list.
 
 - _Shader Programming (i.e witchcraft)_ 🧙🏽‍♂️
 - _Neural Networks & Deep Learning_ 🤖
+
+### 📚Unity Live Help Lessons:
+
+Want help with Unity3D stuff? Book me for a live lesson:
+
+- <a href="https://livehelp.unity.com/expert/ian-mathew?source=lesson">~~Creating A Flexible Menu System In Unity3D~~</a> _(Coming Soon)_
 
 ---
 
