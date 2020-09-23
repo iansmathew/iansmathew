@@ -32,8 +32,9 @@ Here are a few things I've picked up along my learning journey.
 <p>
 Check out what I'm currently involved in.
 
-- <a href="https://www.heartcade.co/">He♥️rtCade</a> | _An experimental dating app bringing a fresh idea to "swiping right"_.
-- <a href="http://playendboss.com/">Endboss: The CCG </a> | _EndBoss is redefining the genre of collectible card games (CCGs)_
+- <a href="http://skinopathy.com/">Skinopathy</a> | _A machine learning driven, cancer detection app._
+- <a href="https://www.heartcade.co/">He♥️rtCade</a> | _An experimental dating app bringing a fresh idea to "swiping right._
+- <a href="http://playendboss.com/">Endboss: The CCG </a> | _EndBoss is an online multiple CCG ready to redefine the genre of collectible card games._
 </p>
 
 ### 🌱What I'm Learning
@@ -42,6 +43,8 @@ Here are some things on my todo list.
 
 - _Shader Programming (i.e witchcraft)_ 🧙🏽‍♂️
 - _Neural Networks & Deep Learning_ 🤖
+- _Kubernets_ ⚙️
+- _Creating DEV.TO and Medium articles_
 
 ### 📚Unity Live Help Lessons:
 
