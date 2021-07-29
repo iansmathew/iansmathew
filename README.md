@@ -30,12 +30,13 @@ Here are a few things I've picked up along my learning journey.
 ### 🚧Current Projects
 
 <p>
-Check out what I'm currently involved in.
+Check out what I've been involved / currently involved in.
 
 - <a href="https://www.georgebrown.ca/programs/game-programming-program-t163">Multiplayer Systems (T163@GBC)</a> _A course I teach at George Brown College on the topic of multiplayer networking and games._
 - <a href="http://skinopathy.com/">Skinopathy</a> | _A machine learning driven, cancer detection app._
 - <a href="https://www.heartcade.co/">He♥️rtCade</a> | _An experimental dating app bringing a fresh idea to "swiping right._
 - <a href="http://playendboss.com/">Endboss: The CCG </a> | _EndBoss is an online multiple CCG ready to redefine the genre of collectible card games._
+- <a href="https://www.groqhealth.com//">GROQ Health </a> | _GROQ Health is the first and only app to prescribe clinically proven treatments tailored to your unique body._
 </p>
 
 ### 🌱What I'm Learning
