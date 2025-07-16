@@ -11,10 +11,10 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p> I wear many hats depending on what is required of me but, I am first and foremost, a passionate learner, a full stack developer, a game programmer, and an aspiring content creator! I'm also a Unity Live Help Expert, so feel free to reach out to me on <a href="https://livehelp.unity.com/expert/ian-mathew?source=lesson"> Unity Live Help </a>.
+<p> I wear many hats depending on what is required of me although, I am first and foremost, a passionate learner.
 </p>
 
-### 👨🏽‍💻Tech Stack
+### 👨🏽‍💻 Stacks
 
 <p>
 Here are a few things I've picked up along my learning journey.
@@ -24,10 +24,12 @@ Here are a few things I've picked up along my learning journey.
 - 🎒 NodeJS 𒑰 Express 𒑰 Socket.IO
 - ☁ AWS 𒑰 Firebase
 - 🎮 Unity3D 𒑰 Unreal Engine 4
-- 📱 Flutter
+- 📱 Flutter 𒑰 React
 - ♽ Docker 𒑰 Jenkins
+- 🧠 LocalLLMs
+- 🎨 Pottery 𒑰 Crocheting 
 
-### 🚧Current Projects
+### 🚧Projects
 
 <p>
 Check out what I've been involved / currently involved in.
@@ -47,12 +49,6 @@ Here are some things on my todo list.
 - _Neural Networks & Deep Learning_ 🤖
 - _Kubernets_ ⚙️
 - _Creating DEV.TO and Medium articles_
-
-### 📚Unity Live Help Lessons:
-
-Want help with Unity3D stuff? Book me for a live lesson:
-
-- <a href="https://livehelp.unity.com/expert/ian-mathew?source=lesson">~~Creating A Flexible Menu System In Unity3D~~</a> _(Coming Soon)_
 
 ---
 
